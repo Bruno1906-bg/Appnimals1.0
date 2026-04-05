@@ -4,7 +4,7 @@
     "slug": "Appnimals",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/mrballs.webp",
+    "icon": "./assets/mrballs.png",
     "userInterfaceStyle": "light",
     "newArchEnabled": true,
     "splash": {
@@ -17,19 +17,20 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./assets/mrballs.png",
         "backgroundColor": "#ffffff"
       },
       "edgeToEdgeEnabled": true,
-      "package": "com.brune0619.MusicaProject"
+      "package": "com.brune0619.Appnimals"
     },
     "web": {
       "favicon": "./assets/favicon.png"
     },
     "extra": {
       "eas": {
-        "projectId": "2de8c1a9-d143-487a-9984-ca23b4dbfa56"
+        "projectId": "383c3267-e4d7-4d8e-b496-2202139e558e"
       }
-    }
+    },
+    "owner": "brune0619"
   }
 }
