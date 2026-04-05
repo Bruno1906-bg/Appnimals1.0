@@ -1,10 +1,10 @@
 {
   "expo": {
-    "name": "MusicaProject",
-    "slug": "MusicaProject",
+    "name": "Appnimals",
+    "slug": "Appnimals",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/mrballs.webp",
     "userInterfaceStyle": "light",
     "newArchEnabled": true,
     "splash": {
